@@ -19,7 +19,7 @@ In order to determine if the surf and ice cream shop business is sustainable yea
 3.	The minimum temperature of 56 (December) and 64 (June) show the greatest variance and reflect a much lower temperature in December. Also, The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month).
 
 
-##Summary
+## Summary
 
 
 The temperatures in December seem very similar to June. December would still provide appropriate weather conditions for both surfing and demand ice cream. The weather overall in December and June is historically very similar. It would be good business to open the surf and ice cream shop based on at first glance temperature minimums.
