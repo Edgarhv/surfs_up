@@ -11,3 +11,7 @@ In order to determine if the surf and ice cream shop business is sustainable yea
 ## Results
 
 ![img](Temperature.png)
+
+1.	The average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature. June has a very little fluctuation of 4 degrees.
+2.	The maximum temperatures in June was of 85  and 83 in December. These are also remarkably similar.
+3.	
