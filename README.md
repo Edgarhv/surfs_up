@@ -12,6 +12,10 @@ In order to determine if the surf and ice cream shop business is sustainable yea
 
 ![img](Temperature.png)
 
+
+#### Key Differences in Weather:
 1.	The average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature. June has a very little fluctuation of 4 degrees.
 2.	The maximum temperatures in June was of 85  and 83 in December. These are also remarkably similar.
-3.	
+3.	The minimum temperature of 56 (December) and 64 (June) show the greatest variance and reflect a much lower temperature in December. Also, The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month).
+
+
